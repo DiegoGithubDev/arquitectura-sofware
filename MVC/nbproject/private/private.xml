@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/modelo/NotaVentaModelo.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/web/Producto/index.jsp</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/web/Categoria/modificar.jsp</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/controllador/ProductoControlador.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/web/index.html</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/modelo/CategoriaModelo.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/controllador/NotaVentaControlador.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/modelo/ClienteModelo.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/web/Categoria/index.jsp</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/vista/NotaVentaVista.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/web/Producto/modificar.jsp</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/modelo/ProductoModelo.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/controllador/CategoriaControlador.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/vista/ProductoVista.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/vista/CategoriaVista.java</file>
+            <file>file:/F:/proyecto_arquitectura/MVC/src/java/com/uagrm/modelo/Conexion.java</file>
+        </group>
+    </open-files>
+</project-private>
